@@ -1,4 +1,17 @@
-#EXTINF:-1 tvg-id="TRT1.tr" group-title="Turkey",TRT 1
+#EXTINF:-1 tvg-id="Welt.de" group-title="GERMANY SPORT",WELT
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+
+#EXTINF:-1 tvg-id="DasErste.de" group-title="GERMANY SPORT",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDF.de" group-title="GERMANY SPORT",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-id="Phoenix.de" group-title="GERMANY SPORT",Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-id="ONE.de" group-title="GERMANY SPORT",ONE
+https://mcdn-one.ard.de/ardone/hls/master.m3u8#EXTINF:-1 tvg-id="TRT1.tr" group-title="Turkey",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" group-title="Turkey",TRT 2
